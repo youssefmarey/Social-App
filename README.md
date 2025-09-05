@@ -1,1 +1,2 @@
-Demo: https://social-app-bay-alpha.vercel.app/login
+Demo: https://social-app-bay-alpha.vercel.app/
+
